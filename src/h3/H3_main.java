@@ -1,6 +1,6 @@
 package h3;
 
-public class H3_Main {
+public class H3_main {
     public static void main(String[] args){
         float celsiusFloat=14.23F;
         float fahrenheitFloat;
